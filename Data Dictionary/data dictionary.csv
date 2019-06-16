@@ -1,0 +1,78 @@
+COLUMN_NAME,TABLE_NAME
+Adopter_id,adopter
+Adopter_id,application
+Adoption_center_id,adoption_center
+Adoption_center_id,employee
+Adoption_center_id,application
+Adoption_center_id,adoption_event
+Adoption_center_id,animal
+adoption_center_id,"adopter view animal"
+Adoption_center_id,donation
+adoption_center_id,"featured animals"
+Adoption_event_id,adoption_event
+adoption_event_id,"featured animals"
+Adoption_event_id,featured_at
+Adoption_event_id,works_at
+Adoption_status,application
+Amount,donation
+Animal_gender,animal
+animal_gender,"adopter view animal"
+animal_gender,"featured animals"
+animal_id,"adopter view animal"
+Animal_id,application
+animal_id,"featured animals"
+Animal_id,featured_at
+Animal_id,animal
+animal_name,"adopter view animal"
+animal_name,"featured animals"
+Animal_name,animal
+Application_end_date,application
+Application_id,application
+Application_start_date,application
+breed_id,"featured animals"
+breed_id,"adopter view animal"
+Breed_id,animal
+Breed_id,breed
+Breed_name,breed
+City_id,adoption_center
+City_id,city
+City_id,foster_family
+City_id,adoption_event
+City_id,adopter
+City_name,city
+Credit_card_information,donator
+Date_adopted,animal
+Date_of_birth,employee
+Date_of_birth,foster_family
+Date_of_birth,adopter
+Date_taken_in,animal
+date_taken_in,"adopter view animal"
+Donation_id,donation
+Donator_id,donation
+Donator_id,donator
+Email,foster_family
+Email,donator
+Email,adopter
+Email,employee
+Employee_id,employee
+Employee_id,works_at
+Event_date,adoption_event
+Fname,donator
+Fname,adopter
+Fname,employee
+Fname,foster_family
+Foster_family_id,foster_family
+Foster_family_id,animal
+Lname,donator
+Lname,adopter
+Lname,employee
+Lname,foster_family
+Neutered,animal
+neutered,"adopter view animal"
+neutered,"featured animals"
+Salary,employee
+species_id,"featured animals"
+Species_id,species
+Species_id,animal
+species_id,"adopter view animal"
+Species_name,species
