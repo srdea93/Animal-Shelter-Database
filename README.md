@@ -1,2 +1,3 @@
 # Animal-Shelter-Database
-Database Design Course Project
+This was my Database Design course project in which I designed and implemented a relational database that could be used
+by an Animal Adoption Shelter.
